@@ -8,7 +8,7 @@ A imersão game dev é uma iniciativa proposta pela Alura e o desafio é criar u
 - Canvas
 - Git (Controle de versão)
 - Github (repositório remoto)
-- WSL 2 (Repositório local)
+- WSL2 Ubuntu 20.04 (Repositório local)
 
 **Editores:**
 - VScode
